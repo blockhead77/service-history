@@ -19,6 +19,7 @@ def about():
 def contact():
     return render_template("contact.html")
 
+
 @app.route("/history")
 def history():
     return render_template("history.html")

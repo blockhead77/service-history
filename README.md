@@ -106,16 +106,26 @@
 # User Experience
 ## Goals
 ### Visitor Goals
-The target audience
-
-Visitor goals are:
-
+Initially the site will be used by a bicycle mechanic who wants to save customer information as well as the work carried out on that customers bicycle.
+The mechanic will want to be able to: 
+- Find work carried out in the past
+- Look up when a service is due on a bike
+- Identify which bikes the customer owns
+- Search for police sercurity markings
+- Update ownership of a bicycle
 
 ### Business Goals
-The Business Goals 
+The Business Goals for the site will be:
+-  to provide a reliable service history for customers as well as aiding in scheduling services for the mechanic.
+    The customer will hopefully feel reassured knowing that the work being carried out is well documented. As a result trending issues can be spotted and dealt with accordingly.
+- to enable the mechanic to be able to better maintain repeat custom.
+- to build a better relationship with the customer and help to better ensure their safety. Safety in the sense that a well maintained bicycle will be safer on the roads.
+
 
 ### User Stories
-
+- The mechanic would like to know when a part was fitted to know if it was still under warranty.
+- The mechanic would like to be able to check to see if a bike was stolen and report it to the police.
+- The mechanic wants to be able to update the ownership details of a bicycle.
 
 ## Visual Design
 ### Wireframes
@@ -149,6 +159,7 @@ The Business Goals
 ## Platforms
 
 ## Other Tools
+- Royalty free images obtained from https://www.pexels.com/
 
 
 # Testing
