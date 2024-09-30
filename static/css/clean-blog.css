@@ -95,8 +95,8 @@ img::-moz-selection {
 }
 
 #mainNav .navbar-brand {
-  font-weight: 800;
-  color: #343a40;
+  font-weight: 600;
+  color: #ec0e0e;
 }
 
 #mainNav .navbar-toggler {
@@ -124,7 +124,7 @@ img::-moz-selection {
     color: #fff;
   }
   #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
-    color: rgba(255, 255, 255, 0.8);
+    color: rgba(243, 8, 8, 0.8);
   }
   #mainNav .navbar-nav > li.nav-item > a {
     padding: 10px 20px;
@@ -184,8 +184,8 @@ header.masthead .overlay {
   left: 0;
   height: 100%;
   width: 100%;
-  background-color: #212529;
-  opacity: 0.5;
+  background-color: #92989b;
+  opacity: .6
 }
 
 header.masthead .page-heading,
